@@ -9,5 +9,8 @@
   "celestialsquids.configuration.items": "Item List",
   "celestialsquids.configuration.logDirtBlock": "Log Dirt Block",
   "celestialsquids.configuration.magicNumberIntroduction": "Magic Number Text",
-  "celestialsquids.configuration.magicNumber": "Magic Number"
+  "celestialsquids.configuration.magicNumber": "Magic Number",
+
+  "item.celestialsquids.example_essence": "Example Essence"
+
 }
